@@ -1,0 +1,11 @@
+/*
+Why 62.5%?
+The base EM is typically 16px to 1em.
+16px multiplied by .625 is equal to 10px.
+Reseting the font size to be in multiples of 10 rather than 16.
+Making it easier to create a 15px font size with basic math
+Example: font-size:1.5em;
+*/
+html{
+    font-size: 62.5%;
+}
