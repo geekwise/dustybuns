@@ -1,0 +1,16 @@
+/*
+    browser reset
+*/
+
+
+.clear{
+    clear:both;
+}
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
